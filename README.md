@@ -1,4 +1,4 @@
-# LOGINventory Shared
+# LOGINventory Community
 
 A community library of dashboards, queries, and documents created in [LOGINventory](https://www.loginventory.de/).
 Browse, download, and reuse content shared by other LOGINventory users.
